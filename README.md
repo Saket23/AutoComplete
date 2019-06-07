@@ -1,2 +1,0 @@
-# AutoComplete
-Created with CodeSandbox
