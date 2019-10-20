@@ -45,7 +45,6 @@ export default class AutoCompleteText extends PureComponent {
   render() {
     return (
       <div className="AutoComplete">
-        <div>saket</div>
         <input
           value={this.state.text}
           type="text"
